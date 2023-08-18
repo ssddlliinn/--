@@ -1,0 +1,2 @@
+# scrapy
+透過request、beautifulsoup將多個不同日期的大盤指數資料抓下來儲存到local database
